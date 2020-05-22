@@ -7,19 +7,21 @@ molecool
 
 A python package for analyzing and visualizing pdb and xyz files. For MolSSI May webinar series.
 
-This repository is currently under development. To development isntall, download this repository and type 
+This repository is currently under development. To development isntall, download this repository and type
 
 ```
 pip install -e .
 ```
 
-This package requires the following: 
-- Numpy 
+This package requires the following:
+- Numpy
 - Matplotlib
 
 Features should developed on branches. To create and switch to a branch, use the command:  
 
 `git checkout -b new_branch_name`
+
+To submit your feature to be incorporated into the master branch, you should submit a `Pull Request`. The repository maintainers will review your pull request before accepting your changes.
 
 
 ### Copyright
@@ -28,6 +30,6 @@ Copyright (c) 2020, Victor H. Chavez
 
 
 #### Acknowledgements
- 
-Project based on the 
+
+Project based on the
 [Computational Molecular Science Python Cookiecutter](https://github.com/molssi/cookiecutter-cms) version 1.2.
