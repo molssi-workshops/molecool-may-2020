@@ -10,6 +10,8 @@ from .visualize import draw_molecule, bond_histogram
 from .measure import calculate_distance, calculate_angle
 from .atom_data import atomic_weights, atom_colors
 
+import molecool.io
+
 # Handle versioneer
 from ._version import get_versions
 versions = get_versions()
